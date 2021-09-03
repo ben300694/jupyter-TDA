@@ -1,3 +1,4 @@
 pandas
 gudhi
 matplotlib
+networkx
